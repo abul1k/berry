@@ -10,7 +10,7 @@ const menuItems = {
     items: [
         dashboard,
         // pages,
-        utilities,
+        // utilities,
         // other,
         users
     ]
